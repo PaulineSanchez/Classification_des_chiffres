@@ -29,7 +29,7 @@ Pour enregistrer ce modèle de CNN on utilise la fonction `model.save` de Tensor
 Enfin, il y a deux fonctions qui permettent d'utiliser notre modèle :
   - `reco_1()` qui permet de visualiser une seule image d'un dossier avec sa prédiction.  
 ![reco1()](/pj_readme/reco1.png)  
-`reco_2()` qui permet de visualiser toutes les images d'un dossier avec leur prédiction.  
+  - `reco_2()` qui permet de visualiser toutes les images d'un dossier avec leur prédiction.  
 ![reco2()](/pj_readme/reco2.png) 
 
 ## Application Streamlit
