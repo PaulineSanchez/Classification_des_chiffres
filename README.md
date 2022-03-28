@@ -24,7 +24,7 @@ Puis il y a le chargement des données de train et de test grâce à des *boucle
 Ensuite, une fois les données collectées, il y a le développement de l'architecture du CNN. 
 Le développement de cette architecture se termine par la visualisation de *l'accuracy*, de la *val-accuracy* et de la *loss* du modèle au cours de différentes *epochs*.  
 Après cela, il y a une visualisation graphique de *l'accuracy* du modèle ainsi que la mise en place d'une matrice de confusion.  
-![graph](/pj_readme/graph_acc.png)  ![mat](pj_readme/matrice_confusion.png)
+![graph](/pj_readme/graph_acc.png)  ![mat](pj_readme/matrice_confusion.png)  
 Pour enregistrer ce modèle de CNN on utilise la fonction `model.save` de TensorFlow. Ici le modèle est enregistré sous le nom `cnn_essai`.  
 Enfin, il y a deux fonctions qui permettent d'utiliser notre modèle :
   - `reco_1()` qui permet de visualiser une seule image d'un dossier avec sa prédiction.  
