@@ -34,7 +34,8 @@ Enfin, il y a deux fonctions qui permettent d'utiliser notre modèle :
 
 ## Application Streamlit
 En complément du jupyter notebook, nous avons crée une application Streamlit qui permet, lorsqu'on dessine un chiffre, de prédire duquel il s'agit. 
-L'interface permet, en plus du dessin et de sa prédiction, d'avoir les résultats du modèle concernant l'ensemble des chiffres de 0 à 9.
+L'interface permet, en plus du dessin et de sa prédiction, d'avoir les résultats du modèle concernant l'ensemble des chiffres de 0 à 9.   
+Cette application a été déployée [ici](https://share.streamlit.io/paulinesanchez/classification_des_chiffres/main/app_reco.py) sur la plateforme de Streamlit.  
 ![st1](pj_readme/streamlit1.png)  
 ![st2](pj_readme/streamlit2.png)  
 ![st3](pj_readme/streamlit3.png)  
