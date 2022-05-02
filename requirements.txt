@@ -1,1 +1,1 @@
-pip install streamlit-drawable-canvas
+py -m pip install streamlit-drawable-canvas
